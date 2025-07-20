@@ -14,17 +14,17 @@ This project aims to deliver clear, actionable insights into our business perfor
 
 ## Key Performance Indicators (KPIs)
 The dashboards in this project visualize essential business KPIs, including but not limited to:
-* [cite_start]**Revenue & Gross Profit:** Tracking overall financial performance[cite: 1, 4, 9, 10].
-* [cite_start]**Deal Value & Units per Deal:** Insights into sales transaction efficiency[cite: 41, 47, 80].
-* [cite_start]**Order Methods:** Analysis of how customers place orders (e.g., Web, Telephone)[cite: 17].
-* [cite_start]**Geographical Performance:** Revenue breakdown by country[cite: 94, 106].
-* [cite_start]**Revenue Prediction & Churn Rate:** Forecasting future sales and identifying customer attrition[cite: 110, 119, 133].
-* [cite_start]**Customer Lifetime Value (CLTV):** Identifying high-value customers[cite: 57, 139].
-* [cite_start]**Purchase Frequency & Lifespan:** Understanding customer engagement patterns[cite: 70, 82, 145].
+* **Revenue & Gross Profit:** Tracking overall financial performance.
+* **Deal Value & Units per Deal:** Insights into sales transaction efficiency.
+* **Order Methods:** Analysis of how customers place orders (e.g., Web, Telephone).
+* **Geographical Performance:** Revenue breakdown by country.
+* **Revenue Prediction & Churn Rate:** Forecasting future sales and identifying customer attrition.
+* **Customer Lifetime Value (CLTV):** Identifying high-value customers.
+* **Purchase Frequency & Lifespan:** Understanding customer engagement patterns.
 
 
 ## Data Sources & Flow
-[cite_start]The core data for these dashboards originates from a `Data.xlsx` spreadsheet [cite: 56, 59, 70, 84, 138, 142, 143, 146, 147] located in the `raw_data/` directory. This raw data was uploaded and transformed into persistent tables within Google BigQuery.
+The core data for these dashboards originates from a `Data.xlsx` spreadsheet located in the `raw_data/` directory. This raw data was uploaded and transformed into persistent tables within Google BigQuery.
 
 From BigQuery:
 * Some Looker dashboards directly connect to these BigQuery tables.
@@ -32,12 +32,12 @@ From BigQuery:
 * The sales prediction model in the `prediction_model/` directory also utilizes data sourced from BigQuery.
 
 ## Dashboards
-[cite_start]The main dashboard for this project is `Business-kpi-dashboard.pdf`[cite: 1]. You can view it directly by clicking the link below:
+The main dashboard for this project is `Business-kpi-dashboard.pdf`. You can view it directly by clicking the link below:
 * [Business KPI Dashboard](dashboards/Business-kpi-dashboard.pdf)
 
 
 ## Prediction Model
-The `prediction_model/` directory contains the Python code  `Sales_prediction.ipynb` used for forecasting future sales. [cite_start]This model employs the Holt-Winters prediction method [cite: 111].
+The `prediction_model/` directory contains the Python code `Sales_prediction.ipynb` used for forecasting future sales. This model employs the Holt-Winters prediction method.
 
 ## Setup and Usage
 To explore this project:
