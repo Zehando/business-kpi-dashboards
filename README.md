@@ -47,13 +47,13 @@ To explore this project:
 4.  **Inspect Raw Data:** Access the initial spreadsheet data in `raw_data/`.
 5.  **Explore Prediction Model:** Navigate to `prediction_model/` to view the Python code and its documentation.
 
-## Contact
+## Contributors
 
 This project was a collaborative effort. I would like to thank the following individuals for their valuable contributions:
 
-* [Carlos Montefusco](https://github.com/camontefusco/)
-* [Victoria Vasilieva](https://github.com/victoria-vasilieva)
-* [Olaf Bulas](https://github.com/Cebulva)
+*  [Carlos Montefusco](https://github.com/camontefusco/)
+*  [Victoria Vasilieva](https://github.com/victoria-vasilieva)
+*  [Olaf Bulas](https://github.com/Cebulva)
 
 ## Contact
 
