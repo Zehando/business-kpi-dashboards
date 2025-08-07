@@ -49,6 +49,14 @@ To explore this project:
 
 ## Contact
 
+This project was a collaborative effort. I would like to thank the following individuals for their valuable contributions:
+
+[Carlos Montefusco](https://github.com/camontefusco/)
+[Victoria Vasilieva](https://github.com/victoria-vasilieva)
+[Olaf Bulas](https://github.com/Cebulva)
+
+## Contact
+
 For any questions or feedback, feel free to reach out:
 
 * **GitHub:** [@zehando](https://github.com/zehando)
