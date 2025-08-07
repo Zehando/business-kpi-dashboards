@@ -51,9 +51,9 @@ To explore this project:
 
 This project was a collaborative effort. I would like to thank the following individuals for their valuable contributions:
 
-[Carlos Montefusco](https://github.com/camontefusco/)
-[Victoria Vasilieva](https://github.com/victoria-vasilieva)
-[Olaf Bulas](https://github.com/Cebulva)
+* [Carlos Montefusco](https://github.com/camontefusco/)
+* [Victoria Vasilieva](https://github.com/victoria-vasilieva)
+* [Olaf Bulas](https://github.com/Cebulva)
 
 ## Contact
 
